@@ -1,4 +1,4 @@
-# RecommendationSystem
+# Recommendation System #
 
 This is a machine learning project by Zining Wang, Jiayu Yao and Qiyang Li.
 
