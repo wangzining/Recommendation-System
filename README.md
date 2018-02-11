@@ -7,8 +7,8 @@ The goal is to recommend users with their favorite movies. We applied different 
 This repository is mainly used as study purpose for people who want to learn recommendation system. Thanks Vicky Wu for testing the study material.
 
 
-Useage:
--------------------------------------------------------------------------------------------------------
+Usage:
+---------------------
 1) baseline models are in Baseline.ipynb
 2) common approach SVD with stochastic gradient descent is in SVD+bias.ipynb
 3) knn and further models are in knn.ipynb
